@@ -1,9 +1,9 @@
 # development-links
 
-Using decorators for error handling:
-https://github.com/enkot/article-CatchDecorator/blob/master/src/catchDecorator.js
+### Using decorators for error handling:
+- https://github.com/enkot/article-CatchDecorator/blob/master/src/catchDecorator.js
 
-## Azure b2c
+### Azure b2c
 The new add-in model allows you to build your websites and reference them in Office, this allows for great customization like adding your authentication mechanism like Azure Ad B2c, so:
 
 #### First create your web site with Azure B2C
