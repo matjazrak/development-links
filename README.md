@@ -21,3 +21,9 @@ The new add-in model allows you to build your websites and reference them in Off
 
 #### You can also add Single Sign On
 - https://docs.microsoft.com/en-us/office/dev/add-ins/develop/sso-in-office-add-ins  
+
+#### GraphQL ORM
+- https://www.prisma.io/
+
+#### The Fullstack Tutorial for GraphQL
+- https://www.howtographql.com/
