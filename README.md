@@ -12,10 +12,10 @@ The new add-in model allows you to build your websites and reference them in Off
 - https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-quickstarts-web-app
 - https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-tutorials-web-app
   
-#### After create the add-in
+#### After that create the add-in
 - Many examples in the following GitHub repository: https://github.com/OfficeDev/TrainingContent
 
-#### Once the user is logedin you can call Microsoft Graph
+#### Once the user is logged-in you can call Microsoft Graph
 - https://github.com/OfficeDev/TrainingContent/tree/master/Graph
 - https://github.com/microsoftgraph/msgraph-training-authentication
 
