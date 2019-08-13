@@ -27,3 +27,6 @@ The new add-in model allows you to build your websites and reference them in Off
 
 #### The Fullstack Tutorial for GraphQL
 - https://www.howtographql.com/
+
+#### Documentation Generator
+- https://docsify.js.org
