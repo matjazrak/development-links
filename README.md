@@ -29,7 +29,7 @@ The new add-in model allows you to build your websites and reference them in Off
 - https://www.howtographql.com/
 
 #### Documentation Generator
-- 
+- https://github.com/hasura/gatsby-gitbook-starter !!!
 - https://docsify.js.org
 
 #### All about SQL Server - Phil Factor, Excelent
