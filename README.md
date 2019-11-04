@@ -34,6 +34,10 @@ The new add-in model allows you to build your websites and reference them in Off
 
 #### All about SQL Server - Phil Factor, Excelent
 - https://www.red-gate.com/simple-talk/author/phil-factor/
+  ##### REST Service with SQL Server and Node
+- https://www.red-gate.com/simple-talk/blogs/setting-up-a-simple-rest-interface-with-sql-server/
+  ##### SQL Server has a couple of different ways to represent hierarchies
+- https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-server-closure-tables/
 
 #### WISEOWL - All about VBA
 - https://www.wiseowl.co.uk/vba-macros/
