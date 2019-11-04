@@ -29,4 +29,16 @@ The new add-in model allows you to build your websites and reference them in Off
 - https://www.howtographql.com/
 
 #### Documentation Generator
+- 
 - https://docsify.js.org
+
+#### All about SQL Server - Phil Factor, Excelent
+- https://www.red-gate.com/simple-talk/author/phil-factor/
+
+#### WISEOWL - All about VBA
+- https://www.wiseowl.co.uk/vba-macros/
+
+#### JSON Parsers
+- http://www.vbforums.com/showthread.php?738845-VB6-JsonBag-Another-JSON-Parser-Generator
+
+- http://www.jsonforoffice.com/vba-code/
