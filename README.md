@@ -46,3 +46,7 @@ The new add-in model allows you to build your websites and reference them in Off
 - http://www.vbforums.com/showthread.php?738845-VB6-JsonBag-Another-JSON-Parser-Generator
 
 - http://www.jsonforoffice.com/vba-code/
+
+### RUN Excel MACRO in another workbook
+- https://github.com/timhall89/Run-Excel-Macro-vbs/blob/master/Run%20An%20excel%20Macro.vbs
+
