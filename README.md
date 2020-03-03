@@ -28,9 +28,17 @@ The new add-in model allows you to build your websites and reference them in Off
 #### The Fullstack Tutorial for GraphQL
 - https://www.howtographql.com/
 
+#### BI Dashboards
+- https://zebrabi.com/
+- https://www.clicdata.com/
+- https://powerbi.microsoft.com/en-us/
+- https://support.google.com/datastudio/answer/6283323?hl=en
+- https://aws.amazon.com/quicksight/
+
 #### Documentation Generator
 - https://github.com/hasura/gatsby-gitbook-starter !!!
 - https://docsify.js.org
+- https://www.gitbook.com/
 
 #### All about SQL Server - Phil Factor, Excelent
 - https://www.red-gate.com/simple-talk/author/phil-factor/
