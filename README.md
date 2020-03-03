@@ -22,35 +22,35 @@ The new add-in model allows you to build your websites and reference them in Off
 #### You can also add Single Sign On
 - https://docs.microsoft.com/en-us/office/dev/add-ins/develop/sso-in-office-add-ins  
 
-#### GraphQL ORM
+### GraphQL ORM
 - https://www.prisma.io/
 
-#### The Fullstack Tutorial for GraphQL
+### The Fullstack Tutorial for GraphQL
 - https://www.howtographql.com/
 
-#### BI Dashboards
+### BI Dashboards
 - https://zebrabi.com/
 - https://www.clicdata.com/
 - https://powerbi.microsoft.com/en-us/
 - https://support.google.com/datastudio/answer/6283323?hl=en
 - https://aws.amazon.com/quicksight/
 
-#### Documentation Generator
+### Documentation Generator
 - https://github.com/hasura/gatsby-gitbook-starter !!!
 - https://docsify.js.org
 - https://www.gitbook.com/
 
-#### All about SQL Server - Phil Factor, Excelent
+### All about SQL Server - Phil Factor, Excelent
 - https://www.red-gate.com/simple-talk/author/phil-factor/
-  ##### REST Service with SQL Server and Node
+  #### REST Service with SQL Server and Node
 - https://www.red-gate.com/simple-talk/blogs/setting-up-a-simple-rest-interface-with-sql-server/
-  ##### SQL Server has a couple of different ways to represent hierarchies
+  #### SQL Server has a couple of different ways to represent hierarchies
 - https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-server-closure-tables/
 
-#### WISEOWL - All about VBA
+### WISEOWL - All about VBA
 - https://www.wiseowl.co.uk/vba-macros/
 
-#### JSON Parsers
+### JSON Parsers
 - http://www.vbforums.com/showthread.php?738845-VB6-JsonBag-Another-JSON-Parser-Generator
 
 - http://www.jsonforoffice.com/vba-code/
